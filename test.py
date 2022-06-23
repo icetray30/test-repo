@@ -2,7 +2,10 @@ import math
 
 print("Hello world!")
 
-print(f"How are you?")
+print("How are you Alex?")
+
+#nice to meet you
+print("what's up, man?")
 
 #some very important information
 
